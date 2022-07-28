@@ -1,0 +1,134 @@
+{
+    "home-header" : {
+        "speciality" : "Medical specility",
+        "searchDoctor": "Find a doctor by specility",
+        "healthFacilities": "Health facilities",
+        "chooseClinic": "Choose hospital clinic",
+        "docTor": "DocTor",
+        "chooseDoctor": "Choose a good doctor",
+        "medicalPackage": "Medical package",
+        "generalHealthCheck": "General health check",
+        "welcome": "Welcome, "
+    },
+    "common": {
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "decentralize": "Decentralize",
+        "close": "Close",
+        "save": "Save",
+        "refresh": "Refresh",
+        "accept": "Accept",
+        "confirm": "Confirm",
+        "confirm-this-task": "Are you sure to process this task?",
+        "fail-to-load-data": "Fail to load data",
+        "unknown-error": "There was an error",
+        "internal-server-error": "Internal server error",
+        "bad-request": "Bad request",
+        "forbiden-request": "Invalid input data",
+        "fail-to-load-all-code": "Fail to load data from allcode",
+        "sum": "Sum",
+        "date-range-invalid": "Date range invalid"
+    },
+    "login": {
+        "login": "Login",
+        "username": "Username",
+        "password": "Password",
+        "userpass-wrong": "Invalid username or password!"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users System",
+            "manage-doctor": "Manage detail information doctor",
+            "manage-admin": "Manage admin",
+            "crud" : "CRUD users",
+            "crud-redux" : "Manage doctor",
+            "manage-clinic" : "Manage clinic",
+            "clinic" : "Clinic",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage specialty",
+            "handbook" : "Handbook",
+            "manage-handbook": "Manage handbook",
+            "doctor-schedule": "Manage schedule doctor"
+        },
+        "doctor" : {
+            "manage-schedule": "Manage Doctor schedule",
+            "manage-patient": "Manage Patient"
+        }
+    },
+    "manage-user": {
+        "add" : "add",
+        "email": "Email",
+        "password": "Password",
+        "firstName": "FirstName",
+        "lastName": "LastName",
+        "phone": "Phone",
+        "address": "Address",
+        "gender": "Gender",
+        "choose": "Choose",
+        "position": "Position",
+        "roleId": "RoleId",
+        "image": "Image"
+    },
+    "homepage": {
+        "outstanding-doctor": "Last week's featured doctor ",
+        "more-infor" : "More Infor",
+        "specialty-popular": "Popular Specialty"
+        
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's plan ",
+        "choose-doctor" : "Choose doctor",
+        "choose-date": "Choose date",
+        "save" : "Save info"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "The doctor does not have an appointment during this time",
+            "choose": "Choose",
+            "book-free": "and book (free)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Address of examination",
+            "price": "Examination price",
+            "detail": "See details",
+            "payment": "The patien can pay the cost in the form of :",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal" : {
+            "title": "Information to book a medical appointment",
+            "fullName": "Fullname",
+            "phoneNumber": "Phone number",
+            "email" : "Email",
+            "address": "Address",
+            "reason": "Reason for medical ",
+            "birthday": "Date of birth",
+            "gender": "Genders",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free booking",
+            "price": "Price"
+        }
+        
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Create more information",
+            "select-doctor": "Select Doctor",
+            "intro": "Introduction",
+            "add": "Create Infor",
+            "save": "Save infor",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic name",
+            "addressClinic": "Clinic address",
+            "note": "Note",
+            "specialty": "Specialty",
+            "select-clinic": "Clinic"
+        }
+        
+    }
+    
+}
